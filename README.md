@@ -1,7 +1,8 @@
 # wedding
 
 > A Mpvue project
-> 原作者出自掘金[roberthuang](https://juejin.im/post/5c341e1d6fb9a049f66c4876)
+
+## 原作者出自掘金[roberthuang](https://juejin.im/post/5c341e1d6fb9a049f66c4876)
 
 ## Build Setup
 
